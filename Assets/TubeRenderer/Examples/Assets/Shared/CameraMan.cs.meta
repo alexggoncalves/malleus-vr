@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aae9857265ef24a179401ef6abfcc686
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3281
+  packageName: TubeRenderer
+  packageVersion: 1.9.4
+  assetPath: Assets/TubeRenderer/Examples/Assets/Shared/CameraMan.cs
+  uploadId: 396393

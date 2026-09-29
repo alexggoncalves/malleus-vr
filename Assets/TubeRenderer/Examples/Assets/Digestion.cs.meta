@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5b9bb3de73fe147ab8b4160eaee9ea46
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3281
+  packageName: TubeRenderer
+  packageVersion: 1.9.4
+  assetPath: Assets/TubeRenderer/Examples/Assets/Digestion.cs
+  uploadId: 396393

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2c662ef9ca893f0458553ccf706ce111
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3281
+  packageName: TubeRenderer
+  packageVersion: 1.9.4
+  assetPath: Assets/TubeRenderer/Examples/01 Invertebrate.unity
+  uploadId: 396393

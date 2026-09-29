@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a13ede663b8734c65ac3bf4e3ffdddaf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3281
+  packageName: TubeRenderer
+  packageVersion: 1.9.4
+  assetPath: Assets/TubeRenderer/Examples/Assets/Herd.cs
+  uploadId: 396393

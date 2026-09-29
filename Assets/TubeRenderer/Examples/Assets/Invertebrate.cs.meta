@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6f3265950d9e049ea9e7b55e3d199d81
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3281
+  packageName: TubeRenderer
+  packageVersion: 1.9.4
+  assetPath: Assets/TubeRenderer/Examples/Assets/Invertebrate.cs
+  uploadId: 396393

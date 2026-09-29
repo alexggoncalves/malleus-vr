@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 96448368f48d74782af5b1214899ab43
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3281
+  packageName: TubeRenderer
+  packageVersion: 1.9.4
+  assetPath: Assets/TubeRenderer/Examples/Assets/Starfish.cs
+  uploadId: 396393

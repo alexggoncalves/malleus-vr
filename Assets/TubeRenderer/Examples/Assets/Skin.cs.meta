@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a07c2643931e94691aaaafb3f83ee666
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3281
+  packageName: TubeRenderer
+  packageVersion: 1.9.4
+  assetPath: Assets/TubeRenderer/Examples/Assets/Skin.cs
+  uploadId: 396393

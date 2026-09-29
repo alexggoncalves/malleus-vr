@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b5547e48709e0f4aa05f7b04473f0e9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3281
+  packageName: TubeRenderer
+  packageVersion: 1.9.4
+  assetPath: Assets/TubeRenderer/Examples/05 Flower.unity
+  uploadId: 396393
